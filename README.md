@@ -6,9 +6,8 @@ Lancer le script depuis une clé USB, puis placer les résultats obtenu dans le 
 
 Tchoupi fait un dump du LSA puis récupère les mots de passe des navigateurs Firefox et Google. Enfin, il récupère les clés Wifi. Peut être lancé sans privilèges particuliers, mais alors on n’aura que les informations de l’utilisateur courant.
 
-Nécessite les outils PsExec et Procdump de la suite Sysinternals.
+Nécessite les outils PsExec et Procdump de la suite Sysinternal ainsi que Chromme Password Decryptor, renommé en cp.exe.
 
-Nécessite de plus Chromme Password Decryptor, renommé en cp.exe.
 
 
 Utilisation de l’outil :
